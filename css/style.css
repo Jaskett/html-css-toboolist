@@ -1,11 +1,11 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
 
-#header {
+#header{
     background-color: #fff;
     padding: 20px;
     font-size: 45px;
@@ -13,42 +13,42 @@
     line-height: 50%;
 }
 
-.logo {
+.logo{
     vertical-align: middle;
 }
 
-h1 {
+h1{
     font-size: 35px;
     vertical-align: middle;
 }
 
-h2 {
+h2{
     font-size: 25px;
     font-weight: 700;
     line-height: 50%;
 }
 
-main {
-    background-color: #f6f8f9;
+main{
+    background-color: #F6F8F9;
     height: 100vh;
     border-radius: 20px;
     padding: 40px 100px 20px 100px;
 }
 
-#container {
+#container{
     background-color: #fff;
     padding: 20px 0px 20px 40px;
 }
 
-.button-task {
-    background-color: #47acf1;
+.button-task{
+    background-color: #47ACF1;
     border: transparent;
     border-radius: 5px;
     padding: 5px 10px;
-    color: white;
+    color: #fff;
 }
 
-.button-section {
+.button-section{
     background-color: transparent;
     border: grey solid 1px;
     border-radius: 5px;
@@ -60,25 +60,35 @@ hr {
     height: 1px;
     background-color: grey;
     margin-top: 10px;
+  }
+
+
+#container-task{
+    background-color: #fff;
+    padding: 20px 0px 20px 40px;
 }
 
-#container-task {
-    background-color: white;
-    padding: 20px 0 px 20px 40px;
-}
-
-.frecciatask {
+.frecciatask{
     font-size: 10px;
 }
 
-.paragrafo {
+.paragrafo{
     padding-top: 10px;
 }
 
-.tagazzurro {
-    background-color: #47acf1;
+.tagazzurro{
+    background-color: #47ACF1;
     border-radius: 6px;
-    color: white;
+    color: #fff;
+    padding: 5px;
+    font-size: 10px;
+    margin: 0px 0px 0px 6px;
+}
+
+.tagviola{
+    background-color: #9C72E4;
+    border-radius: 6px;
+    color: #fff;
     padding: 5px;
     font-size: 10px;
     margin: 0px 0px 0px 6px;
