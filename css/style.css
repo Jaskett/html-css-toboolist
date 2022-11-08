@@ -39,3 +39,19 @@ main {
     background-color: #fff;
     padding: 20px 0px 20px 40px;
 }
+
+.button-task {
+    background-color: #47acf1;
+    border: transparent;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: white;
+}
+
+.button-section {
+    background-color: transparent;
+    border: grey solid 1px;
+    border-radius: 5px;
+    padding: 4px 9px;
+    color: grey;
+}
