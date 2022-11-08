@@ -16,3 +16,14 @@
 .logo {
     vertical-align: middle;
 }
+
+h1 {
+    font-size: 35px;
+    vertical-align: middle;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 50%;
+}
