@@ -6,7 +6,7 @@
 }
 
 #header{
-    background-color: #fff;
+    background-color: white;
     padding: 20px;
     font-size: 45px;
     font-weight: 700;
@@ -36,7 +36,7 @@ main{
 }
 
 #container{
-    background-color: #fff;
+    background-color: white;
     padding: 20px 0px 20px 40px;
 }
 
@@ -45,7 +45,7 @@ main{
     border: transparent;
     border-radius: 5px;
     padding: 5px 10px;
-    color: #fff;
+    color: white;
 }
 
 .button-section{
@@ -58,13 +58,13 @@ main{
 
 hr {
     height: 1px;
-    background-color: grey;
+    color: #F6F8F9;
     margin-top: 10px;
   }
 
 
 #container-task{
-    background-color: #fff;
+    background-color: white;
     padding: 20px 0px 20px 40px;
 }
 
@@ -79,7 +79,7 @@ hr {
 .tagazzurro{
     background-color: #47ACF1;
     border-radius: 6px;
-    color: #fff;
+    color: white;
     padding: 5px;
     font-size: 10px;
     margin: 0px 0px 0px 6px;
@@ -88,7 +88,7 @@ hr {
 .tagviola{
     background-color: #9C72E4;
     border-radius: 6px;
-    color: #fff;
+    color: white;
     padding: 5px;
     font-size: 10px;
     margin: 0px 0px 0px 6px;
@@ -97,7 +97,7 @@ hr {
 .tagverde{
     background-color: #64BFA9;
     border-radius: 6px;
-    color: #fff;
+    color: white;
     padding: 5px;
     font-size: 10px;
     margin: 0px 0px 0px 6px;
@@ -106,7 +106,7 @@ hr {
 .tagarancione{
     background-color: #F29E33;
     border-radius: 6px;
-    color: #fff;
+    color: white;
     padding: 5px;
     font-size: 10px;
     margin: 0px 0px 0px 6px;
@@ -115,7 +115,16 @@ hr {
 .tagrosa{
     background-color: #D863A1;
     border-radius: 6px;
-    color: #fff;
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+    margin: 0px 0px 0px 6px;
+}
+
+.tagverdeoliva{
+    background-color: #B0C925;
+    border-radius: 6px;
+    color: white;
     padding: 5px;
     font-size: 10px;
     margin: 0px 0px 0px 6px;
