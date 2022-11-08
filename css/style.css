@@ -55,3 +55,31 @@ main {
     padding: 4px 9px;
     color: grey;
 }
+
+hr {
+    height: 1px;
+    background-color: grey;
+    margin-top: 10px;
+}
+
+#container-task {
+    background-color: white;
+    padding: 20px 0 px 20px 40px;
+}
+
+.frecciatask {
+    font-size: 10px;
+}
+
+.paragrafo {
+    padding-top: 10px;
+}
+
+.tagazzurro {
+    background-color: #47acf1;
+    border-radius: 6px;
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+    margin: 0px 0px 0px 6px;
+}
